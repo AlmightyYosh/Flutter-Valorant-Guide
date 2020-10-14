@@ -1,0 +1,88 @@
+name: valorant_guide
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  - res/White.png
+  - res/breach.jpg
+  - res/Brimstone.jpg
+  - res/cypher.jpg
+  - res/jett.jpg
+  - res/omen.jpg
+  - res/phoenix.jpg
+  - res/raze.jpg
+  - res/sage.jpg
+  - res/sova.jpg
+  - res/viper.jpg
+
+  - res/Breach_Aftershock.png
+  - res/Breach_FaultLine.png
+  - res/Breach_FlashPoint.png
+  - res/Breach_RollingThunder.png
+
+  - res/Brimstone_Incendiary.png
+  - res/Brimstone_OrbitaStrike.png
+  - res/Brimstone_SkySmoke.png
+  - res/Brimstone_StimBeacon.png
+
+  - res/Cypher_CyberCage.png
+  - res/Cypher_NeuralTheft.png
+  - res/Cypher_Spycam.png
+  - res/Cypher_Trapwire.png
+
+  - res/Jett_BladeStorm.png
+  - res/Jett_Cloudburst.png
+  - res/Jett_Tailwind.png
+  - res/Jett_Updraft.png
+
+  - res/Omen_DarkCover.png
+  - res/Omen_FromtheShadows.png
+  - res/Omen_Paranoia.png
+  - res/Omen_ShroudedStep.png
+
+  - res/Phoenix_Blaze.png
+  - res/Phoenix_Curveball.png
+  - res/Phoenix_HotHands.png
+  - res/Phoenix_RunitBack.png
+
+  - res/Raze_BlastPack.png
+  - res/Raze_BoomBot.png
+  - res/Raze_PaintShells.png
+  - res/Raze_Showstopper.png
+
+  - res/Sage_BarrierOrb.png
+  - res/Sage_HealingOrb.png
+  - res/Sage_Resurrection.png
+  - res/Sage_SlowOrb.png
+
+  - res/Sova_HunterFury.png
+  - res/Sova_OwlDrone.png
+  - res/Sova_ReconBolt.png
+  - res/Sova_ShockBolt.png
+
+  - res/Viper_PoisonCloud.png
+  - res/Viper_SnakeBite.png
+  - res/Viper_ToxicScreen.png
+  - res/Viper_ViperPit.png
+
+
+
+ 
